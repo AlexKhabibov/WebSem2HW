@@ -1,0 +1,17 @@
+body {
+    background-color: aliceblue;
+}
+
+h1 {
+    color: blue;
+}
+
+.p1 {
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.ol1 {
+    font-style: italic;
+    color: blueviolet;
+}
